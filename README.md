@@ -1,5 +1,3 @@
-# guilhermefs-techREADME.md
-
 Olá! Sou Guilherme Ferro, estudante de Sistemas de Informação na Universidade Paulista (UNIP), apaixonado por tecnologia, programação e desenvolvimento de soluções. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, lógica de programação, desenvolvimento web e computação em nuvem. Busco constantemente aprender novas tecnologias, desenvolver projetos e transformar conhecimento teórico em aplicações práticas.
 
 🚀 Tech Stack & Skills
